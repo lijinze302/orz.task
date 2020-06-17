@@ -2,6 +2,8 @@ mini项目
 
 适用于于QuantumultX 1.0.10（285）及以上版本
 
+彩色task一直在同步更新，只是因为精力问题没有再做对照图，新的文件对照图可以在mini项目的task图标部分查看，两个库是同步更新的
+
 
 Telegram频道：https://t.me/Orzmini
 
