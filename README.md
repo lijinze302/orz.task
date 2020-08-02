@@ -18,6 +18,8 @@
 ####  2、UI中使用
   
    主界面右下角点击风车开启菜单，然后找到调试一栏下的构造请求，点击进入构造请求界面，左滑相应task，点击编辑，在图标一栏填写 `https://raw.githubusercontent.com/Orz-3/task/master/文件名.png`
+
+####  如想使用透明版本，把链接中的task改成mini即可
   
 ##### 图标索引
 
