@@ -12,12 +12,12 @@
 ####  1、文本编辑中使用
   
   打开QuanX 配置文件-编辑，找到［task_local］字段，在想要增加图标的相应签到脚本段落中修改，在enable＝true之前加上 
-  **`img-url=https://raw.githubusercontent.com/Orz-3/task/master/文件名.png`
+  `img-url=https://raw.githubusercontent.com/Orz-3/task/master/文件名.png`
   注意此句和前后句都要用英文逗号隔开，并且逗号后先要空一格
   
 ####  2、UI中使用
   
-   主界面右下角点击风车开启菜单，然后找到调试一栏下的构造请求，点击进入构造请求界面，左滑相应task，点击编辑，在图标一栏填写 **`https://raw.githubusercontent.com/Orz-3/task/master/文件名.png`
+   主界面右下角点击风车开启菜单，然后找到调试一栏下的构造请求，点击进入构造请求界面，左滑相应task，点击编辑，在图标一栏填写 `https://raw.githubusercontent.com/Orz-3/task/master/文件名.png`
   
 ##### 图标索引
 
