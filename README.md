@@ -3,7 +3,7 @@
 
 ## mini项目
 
-**注意：** 本库中图标为彩色版本，透明版本在mini库中，此库中对照图已不再更新，请前往mini库查看
+**注意：** 本库中图标为彩色版本，透明版本在mini库中
 
 ##### Telegram频道： [mini计划-图标聚合](https://t.me/Orzmini)
 
@@ -24,11 +24,14 @@
 ##### 图标索引
 
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/1.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/c1.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/2.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/c2.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/3.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/c3.png)
 
-![示例](https://raw.githubusercontent.com/Orz-3/mini/none/4.png)
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/c4.png)
 
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/c5.png)
+
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/c6.png)
