@@ -34,3 +34,9 @@
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/c5.png)
 
 ![示例](https://raw.githubusercontent.com/Orz-3/mini/none/c6.png)
+
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/c7.png)
+
+![示例](https://raw.githubusercontent.com/Orz-3/mini/none/yaofan.png)
+
+
